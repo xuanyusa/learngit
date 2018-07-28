@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git branch is cheap.
 Git is cheap and simple.
+Git have fast-forward merging method.
